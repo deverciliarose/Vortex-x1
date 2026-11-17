@@ -16,13 +16,13 @@ Navegação simples e intuitiva.
 
 ## Demonstrativo do projeto
 ## Versão desktop
-<img width="900" height="965" alt="tenis-desktop" src="https://github.com/user-attachments/assets/24a5dfb1-d4a3-4301-a976-4d62078331aa" />
+<img width="1200" height="965" alt="tenis-desktop" src="https://github.com/user-attachments/assets/24a5dfb1-d4a3-4301-a976-4d62078331aa" />
 
 ## Versão moble
 <img width="389" height="844" alt="tenis-mobile" src="https://github.com/user-attachments/assets/de089987-c9c0-4d63-bdd8-71960ec78261" />
 
 ## Acessar projeto online
-[Acessar projeto] (https://vortex-x1-ds9d.vercel.app)
+[Acessar projeto](https://vortex-x1-ds9d.vercel.app)
 
 ## Tecnologias utilizadas
 
