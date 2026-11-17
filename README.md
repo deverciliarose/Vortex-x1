@@ -27,7 +27,9 @@ Navegação simples e intuitiva.
 ## Tecnologias utilizadas
 
 React
+
 CSS3
+
 Vite
 
 ## Responsividade
@@ -36,19 +38,25 @@ A interface foi desenvolvida para proporcionar uma boa experiência tanto em com
 ## Melhorias futuras
 
 Implementar seleção de numeração do tênis.
+
 Desenvolver a funcionalidade do botão "Comprar".
+
 Adicionar animações suaves durante a troca de cores.
 
 ## Como executar o projeto 
 Clone o repositório
+
 git clone https://github.com/deverciliarose/Vortex-x1.git
 
 Entre na pasta 
+
 cd vortex-x1
 
 Instale as dependências 
+
 npm install
 
 Execute o projeta 
+
 npm run dev
 
